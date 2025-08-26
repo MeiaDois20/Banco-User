@@ -7,12 +7,13 @@ tudo por meio de um menu interativo no terminal.
 📌 Projeto com fins didáticos, ideal para praticar lógica, controle de fluxo e Programação Orientada a Objetos (POO) em Java.
 
 📂 Estrutura do Projeto
+```
 banco-usuario/
 ├── application/
 │   └── UserBanco.java   # Classe principal com o menu interativo
 └── entities/
     └── Conta.java       # Modelo da conta bancária
-
+````
 🧠 Visão Geral das Classes
 🧾 Conta.java
 
