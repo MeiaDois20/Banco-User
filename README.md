@@ -1,4 +1,4 @@
-💳 Banco do Usuário
+## 💳 Banco do Usuário
 
 Aplicativo de console em Java que simula operações bancárias básicas.
 O programa permite que o usuário crie uma conta, realize depósitos e saques (com validação e taxa) e visualize os dados da conta,
