@@ -13,9 +13,9 @@ banco-usuario/
 │   └── UserBanco.java   # Classe principal com o menu interativo
 └── entities/
     └── Conta.java       # Modelo da conta bancária
-````
+```
 ## 🧠 Visão Geral das Classes
-## 🧾 Conta.java
+**🧾 Conta.java**
 
 Representa uma conta bancária com os atributos:
 ```
