@@ -8,10 +8,10 @@ tudo por meio de um menu interativo no terminal.
 
 ## 📂 Estrutura do Projeto
 ```
-banco-usuario/
-├── application/
+banco-usuario
+├── application
 │   └── UserBanco.java   # Classe principal com o menu interativo
-└── entities/
+└── entities
     └── Conta.java       # Modelo da conta bancária
 ```
 ## 🧠 Visão Geral das Classes
