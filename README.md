@@ -152,6 +152,7 @@ Saldo: R$ 215.00
 **👤 Autor:**
 Thalys Ravel
 
-**📄 Licença:\n**
+**📄 Licença:**
+
 **Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE
  para mais detalhes.**
