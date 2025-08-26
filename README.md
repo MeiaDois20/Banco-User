@@ -72,9 +72,9 @@ System.out.println("Saque (3)");
 ```
 ## 🔧 Funcionalidades
 
-## ✅ Criação de Conta – Usuário informa número da conta e nome do titular.
+**✅ Criação de Conta – Usuário informa número da conta e nome do titular.**
 
-## 💰 Depósito – Apenas valores positivos são aceitos.
+**💰 Depósito – Apenas valores positivos são aceitos.**
 
 ## 🏧 Saque – Segue as regras:
 
