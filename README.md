@@ -149,7 +149,7 @@ Conta: 101
 Titular: Maria Souza
 Saldo: R$ 215.00
 ````
-**👤 Autor**
+**👤 Autor:**
 Thalys Ravel
 
 **📄 Licença**
