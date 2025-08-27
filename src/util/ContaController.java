@@ -3,7 +3,6 @@ import java.util.Scanner;
 import entities.Conta;
 
 public class ContaController {
-
     public void deposito(Conta conta, double valor) {
         Scanner sc = new Scanner(System.in);
         while (valor < 0.0) {
@@ -26,5 +25,4 @@ public class ContaController {
         }
         conta.saque(valor);
     }
-
 }
