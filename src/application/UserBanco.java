@@ -24,7 +24,7 @@ public class UserBanco {
             String titular = sc.nextLine();
 
             Conta usuario = new Conta(numeroConta, titular);
-            ContaController controller = new ContaController();
+            ContaController controller = new ContaController(sc);
             System.out.print("Deseja ver o menu de opções(s/n)? ");
             char opcoes = sc.next().charAt(0);
             sc.nextLine();
